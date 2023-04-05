@@ -4,7 +4,7 @@ This is Isabelle! I am a research scientist pivoting into Data Science.
 
 You will find here notebooks of research and data science projects I am working on. 
 
-🌱 I’m currently learning on Machine Learning. Come back soon for more projects!
+🌱 I’m currently taking a nanodegree on Machine Learning at Udacity. Come back soon for more projects!
 
 
 
