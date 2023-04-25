@@ -8,7 +8,10 @@ You will find here notebooks of research and data science projects I am working 
 
 I have started [my blog on Medium](https://medium.com/@isabelle.vea) and you can read about:
 - [How long it took me to learn how to walk again](https://medium.com/@isabelle.vea/looking-at-recovery-from-my-lisfranc-foot-fracture-using-data-viz-and-moving-averages-37a71a192bd1) (using data viz and Python)
+- my analysis of the 2022 Stack Overflow Developer Survey to [draw how a data science role looks like](https://medium.com/@isabelle.vea/draw-me-a-data-scientist-ff970301df04)
 - How I am navigating [pivoting into data science](https://medium.com/@isabelle.vea/transitioning-to-industry-pivoting-into-data-science-or-simply-finding-my-next-career-stage-9cb4d0bd6ec5)!
+
+:books: I also write mini-tutorials on handling data throughout my learning journey with Python and coding more efficiently. Check my [Medium page](https://medium.com/@isabelle.vea)
 
 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isabellevea/)
 
