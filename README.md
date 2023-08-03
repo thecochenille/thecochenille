@@ -4,7 +4,7 @@ This is Isabelle! I am a research scientist pivoting into Data Science and more 
 
 You will find repos of research and data science projects I am working on. 
 
-For an overview of my data-driven projects, check out my portfolio [Wix Portfolio](https://isabellevea.wixsite.com/datascience)
+For an overview of my data-driven projects, check out my [Portfolio](https://isabellevea.wixsite.com/datascience)
 
 🌱 I’m currently taking a nanodegree on Machine Learning at Udacity. Come back soon for more projects!
 
