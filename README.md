@@ -13,6 +13,8 @@ I have started [my blog on Medium](https://medium.com/@isabelle.vea) and you can
 
 :books: I also write mini-tutorials on handling data throughout my learning journey with Python and coding more efficiently. Check my [Medium page](https://medium.com/@isabelle.vea)
 
+I am also sharing my journey pivoting into data science and leaving academia on Linkedin [LinkedIn](https://www.linkedin.com/in/isabellevea/)
+
 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isabellevea/)
 
 <!--
