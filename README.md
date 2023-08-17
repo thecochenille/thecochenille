@@ -8,7 +8,7 @@ For an overview of my data-driven projects, check out my [Portfolio](https://isa
 
 🌱 I’m currently taking a nanodegree on Machine Learning at Udacity. Come back soon for more projects!
 
-I have started [my blog on Medium](https://medium.com/@isabelle.vea) and you can read about:
+I have [a blog on Medium](https://medium.com/@isabelle.vea) where you can read about:
 - [How long it took me to learn how to walk again](https://medium.com/@isabelle.vea/looking-at-recovery-from-my-lisfranc-foot-fracture-using-data-viz-and-moving-averages-37a71a192bd1) (using data viz and Python)
 - my analysis of the 2022 Stack Overflow Developer Survey to [draw how a data science role looks like](https://medium.com/@isabelle.vea/draw-me-a-data-scientist-ff970301df04)
 - How I am navigating [pivoting into data science](https://medium.com/@isabelle.vea/transitioning-to-industry-pivoting-into-data-science-or-simply-finding-my-next-career-stage-9cb4d0bd6ec5)!
