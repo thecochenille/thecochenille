@@ -4,9 +4,14 @@ This is Isabelle! I am a research scientist pivoting into Data Science and more 
 
 You will find repos of research and data science projects I am working on. 
 
+
 For an overview of my data-driven projects, check out my [Portfolio](https://isabellevea.wixsite.com/datascience)
 
-🌱 I’m currently taking a nanodegree on Machine Learning at Udacity. Come back soon for more projects!
+🌱 I’m currently taking a nanodegree on Machine Learning at Udacity. 
+
+ML projects: 
+- [Disaster Response Machine Learning Model based on Appen dataset](https://github.com/thecochenille/ML_AppenDisaster) - Flask App that you can run on your computer
+
 
 I have [a blog on Medium](https://medium.com/@isabelle.vea) where you can read about:
 - [How long it took me to learn how to walk again](https://medium.com/@isabelle.vea/looking-at-recovery-from-my-lisfranc-foot-fracture-using-data-viz-and-moving-averages-37a71a192bd1) (using data viz and Python)
