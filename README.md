@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-This is Isabelle! I am a research scientist pivoting into Data Science and more specifically Machine Learning.
+This is Isabelle! 
 
-You will find repos of research and data science projects I am working on. 
+I am a data-driven scientist interested in Machine Learning and passionate about learning new tools and coding in Python. 
+I would love to use my 9+ years of experience as a research scientist to drive actionable insights to business problems using data science. 
+
+🌱 Upskilling on Machine Learning at Udacity. 
 
 
 For an overview of my data-driven projects, check out my [Portfolio](https://isabellevea.wixsite.com/datascience)
+<img width="910" alt="portfolio" src="https://github.com/thecochenille/thecochenille/assets/6545243/e4aad7b0-524c-4923-a82f-3ef367685c13">
 
-🌱 I’m currently taking a nanodegree on Machine Learning at Udacity. 
 
 ML projects: 
 - [Disaster Response Machine Learning Model based on Appen dataset](https://github.com/thecochenille/ML_AppenDisaster) - Flask App that you can run on your computer
