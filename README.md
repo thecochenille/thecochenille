@@ -1,18 +1,22 @@
 ### Hi there 👋
 
-This is Isabelle! 
+### This is Isabelle! 
 
 I am a data-driven scientist interested in Machine Learning and passionate about learning new tools and coding in Python. 
 I would love to use my 9+ years of experience as a research scientist to drive actionable insights to business problems using data science. 
 
 🌱 Upskilling on Machine Learning at Udacity. 
 
+### Latest and in-progress projects (October 2023)
+- [Women in Data 2023 Datathon project](https://github.com/TalkDatatoMeWiDDatathon23/ForestService-Census-Index)
+- [Customer segmentation and Machine Learning project](https://github.com/thecochenille/automatic-eureka)
 
-For an overview of my data-driven projects, check out my [Portfolio](https://isabellevea.wixsite.com/datascience)
+
+For an overview of my other data-driven projects, check out my [Portfolio](https://isabellevea.wixsite.com/datascience)
 <img width="910" alt="portfolio" src="https://github.com/thecochenille/thecochenille/assets/6545243/e4aad7b0-524c-4923-a82f-3ef367685c13">
 
 
-ML projects: 
+### ML projects: 
 - [Disaster Response Machine Learning Model based on Appen dataset](https://github.com/thecochenille/ML_AppenDisaster) - Flask App that you can run on your computer
 
 
