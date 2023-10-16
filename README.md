@@ -9,7 +9,6 @@ I would love to use my 9+ years of experience as a research scientist to drive a
 
 ### Latest and in-progress projects (October 2023)
 - [Women in Data 2023 Datathon project](https://github.com/TalkDatatoMeWiDDatathon23/ForestService-Census-Index)
-- [Customer segmentation and Machine Learning project](https://github.com/thecochenille/automatic-eureka)
 
 
 For an overview of my other data-driven projects, check out my [Portfolio](https://isabellevea.wixsite.com/datascience)
