@@ -5,7 +5,7 @@
 I am a data-driven scientist interested in Machine Learning and passionate about learning new tools and coding in Python. 
 I would love to use my 9+ years of experience as a research scientist to drive actionable insights to business problems using data science. If you are interested in working with me on a project, feel free to connect on [Linkedin](https://www.linkedin.com/in/isabellevea/)
 
-🌱 I am currently upskilling on Machine Learning at Udacity.
+🌱 I am currently upskilling on Machine Learning and Data Governance at Udacity.
 
 ### Latest and in-progress projects (October 2023)
 - [Women in Data 2023 Datathon project](https://github.com/TalkDatatoMeWiDDatathon23/ForestService-Census-Index)
