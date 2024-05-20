@@ -9,12 +9,13 @@ I would love to leverage 9+ years of experience as a research scientist and comp
 🌱 I am currently upskilling in Data Governance at Udacity.
 
 ### What am I up to? (2024)
-- April 2024: I finally got my Data Scientist Nanodegree at Udacity!
+- May 2024: I joined the [MLOps course by DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp)
+- April 2024: I received my Data Scientist Nanodegree at Udacity!
 - March 2023: I received my very first AWS certification: the [AWS Cloud Practitioner Certification](https://www.credly.com/badges/95f605e5-f63f-4cdd-80a8-8f5661bca9bd/public_url)!
 
 
 ### What data projects am I working on now? (April 2024)
-- Women in Data Science Datathon 2024, part II. You can find my progress [here](https://github.com/thecochenille/WIDS_datathon2024_2_Gilead)
+- Women in Data Science Datathon 2024, part II. 
 
 
 
