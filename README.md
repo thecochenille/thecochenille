@@ -4,7 +4,7 @@
 
 I am a scientist passionate about data, learning new tools, and coding in Python. I am currently interested in Machine Learning and AI, and how these can be applied to the life sciences.
 
-I would love to leverage 9+ years of experience as a research scientist and computational biologist to drive actionable insights into business problems using data science. If you are interested in working with me on a project, I would love to hear about your work, so message me on [Linkedin](https://www.linkedin.com/in/isabellevea/)
+I would love to leverage 5+ years of experience as a research scientist and computational biologist to drive actionable insights into business problems using data science. If you are interested in working with me on a project, I would love to hear about your work, so message me on [Linkedin](https://www.linkedin.com/in/isabellevea/)
 
 🌱 I am currently upskilling in Data Governance at Udacity.
 
