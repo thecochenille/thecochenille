@@ -3,7 +3,7 @@
 ### This is Isabelle! 
 #### Data Scientist with a focus in MLOps
 
-I am a former Research Scientist turned Data Scientist, now specializing in building robust, maintainable Machine Learning systems. My focus is on moving beyond "working code" toward mature engineering—prioritizing system integrity, and architectural stability.
+I am a former Research Scientist turned Data Scientist, now specializing in building robust, maintainable Machine Learning systems. My focus is on moving beyond "working code" toward mature engineering, prioritizing system integrity and architectural stability.
 
 ### **2026 Project:** The Quiet Build 
 
