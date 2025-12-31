@@ -9,13 +9,13 @@ I am a former Research Scientist turned Data Scientist, now specializing in buil
 
 I am starting a journey to build AI products while learning how to architect robust and sustainable systems. I will document my thought process and how I use foundational references to build each block along the way, including design decisions  My first project in the Quiet Build will be to build an AI powered app my family’s heritage records. 
 
-Objective: Developing a sustainable platform to preserve, digitize, and interact with archival family data.
+**Objective:** Developing a sustainable platform to preserve, digitize, and interact with archival family data.
 
-Engineering Focus: Quality over speed, architectural robustness, and well-documented decision-making.
+**Engineering Focus:** Quality over speed, architectural robustness, and well-documented decision-making.
 
-Methodology: Every technical choice is recorded as an ADR (Architecture Decision Record) to ensure traceability and intentionality.
+**Methodology:** Every technical choice is recorded as an ADR (Architecture Decision Record) to ensure traceability and intentionality.
 
-Lab Notebook: Documentation and architectural logs are hosted here: [The Quiet Build](https://thecochenille.github.io/)
+**Lab Notebook:** Documentation and architectural logs are hosted here: [The Quiet Build](https://thecochenille.github.io/)
 
 
 ### **Technical Evolution**
