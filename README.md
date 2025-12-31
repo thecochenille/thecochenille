@@ -1,22 +1,28 @@
 ### Hi there 👋
 
 ### This is Isabelle! 
+#### Data Scientist with a focus in MLOps
 
-I am a scientist passionate about data, learning new tools, and coding in Python & R. 
+I am a former Research Scientist turned Data Scientist, now specializing in building robust, maintainable Machine Learning systems. My focus is on moving beyond "working code" toward mature engineering—prioritizing system integrity, and architectural stability.
 
-As a research scientist and computational biologist who has worked with various data types over the years, I would love to leverage machine learning and data application development to drive actionable insights into business problems. 
+### **2026 Project:** The Quiet Build 
 
-If you are interested in working with me on a project, message me on [Linkedin](https://www.linkedin.com/in/isabellevea/)
+I am starting a journey to build AI products while learning how to architect robust and sustainable systems. I will document my thought process and how I use foundational references to build each block along the way, including design decisions  My first project in the Quiet Build will be to build an AI powered app my family’s heritage records. 
+
+Objective: Developing a sustainable platform to preserve, digitize, and interact with archival family data.
+
+Engineering Focus: Quality over speed, architectural robustness, and well-documented decision-making.
+
+Methodology: Every technical choice is recorded as an ADR (Architecture Decision Record) to ensure traceability and intentionality.
+
+Lab Notebook: Documentation and architectural logs are hosted here: [The Quiet Build](https://thecochenille.github.io/)
 
 
-### What am I up to? (2024)
-- June 2024: I joined the [MLOps course by DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp)
-- April 2024: I received my Data Scientist Nanodegree at Udacity!
-- March 2023: I received my very first AWS certification: the [AWS Cloud Practitioner Certification](https://www.credly.com/badges/95f605e5-f63f-4cdd-80a8-8f5661bca9bd/public_url)!
+### **Technical Evolution**
+- **2026:** Architecting "The Quiet Build" (Focus on MLOps & System Design).
+- **2024:** MLOps Zoomcamp + Udacity Data Scientist Nanodegree + AWS Cloud Practitioner Certification.
 
-
-### What data projects am I working on now? (April 2024)
-- Women in Data Science Datathon 2024, part II. 
+Background: 10+ years as a Research Scientist and Computational Biologist, bringing a rigorous experimental mindset to software engineering.
 
 
 ### ML Projects: 
@@ -26,7 +32,6 @@ If you are interested in working with me on a project, message me on [Linkedin](
 ### Data Analytics Projects: 
 - My analysis of the 2022 Stack Overflow Developer Survey to [draw how a data science role looks like](https://medium.com/@isabelle.vea/draw-me-a-data-scientist-ff970301df04)
 - [How long it took me to learn how to walk again](https://medium.com/@isabelle.vea/looking-at-recovery-from-my-lisfranc-foot-fracture-using-data-viz-and-moving-averages-37a71a192bd1) (using data viz and Python)
-
 
 
 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isabellevea/)
