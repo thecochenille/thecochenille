@@ -5,9 +5,11 @@
 
 I am a former Research Scientist turned Data Scientist, now specializing in building robust, maintainable Machine Learning systems. My focus is on moving beyond "working code" toward mature engineering, prioritizing system integrity and architectural stability.
 
-### **2026 Project:** The Quiet Build 
+### **2026:** The Quiet Build 
 
-I am starting a journey to build AI products while learning how to architect robust and sustainable systems. I will document my thought process and how I use foundational references to build each block along the way, including design decisions  My first project in the Quiet Build will be to build an AI powered app my family’s heritage records. 
+I am starting a journey to build AI products while learning how to architect robust and sustainable systems. I will document my thought process and how I use foundational references to build each block along the way, including design decisions.
+
+My first project in the Quiet Build will be to build an AI powered app of my family’s heritage records. 
 
 **Objective:** Developing a sustainable platform to preserve, digitize, and interact with archival family data.
 
