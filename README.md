@@ -21,7 +21,7 @@ My first project in the Quiet Build will be to build an AI powered app of my fam
 
 
 ### **Technical Evolution**
-- **2026:** Architecting "The Quiet Build" (Focus on MLOps & System Design).
+- **2026:** "The Quiet Build" logs (Focus on MLOps & System Design).
 - **2024:** MLOps Zoomcamp + Udacity Data Scientist Nanodegree + AWS Cloud Practitioner Certification.
 
 Background: 10+ years as a Research Scientist and Computational Biologist, bringing a rigorous experimental mindset to software engineering.
